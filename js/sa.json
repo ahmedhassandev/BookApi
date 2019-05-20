@@ -1,0 +1,725 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 376,
+    "items": [{
+            "kind": "books#volume",
+            "id": "R2tkkPvcnDsC",
+            "etag": "fN5oh0GhlK8",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/R2tkkPvcnDsC",
+            "volumeInfo": {
+                "title": "J. S. Bach",
+                "subtitle": "A Life in Music",
+                "authors": [
+                    "Peter Williams"
+                ],
+                "publisher": "Cambridge University Press",
+                "publishedDate": "2007-02-15",
+                "description": "Peter Williams approaches afresh the life and music of arguably the most studied of all composers, interpreting both Bach's life by deconstructing his original obituary in the light of more recent information and his music by evaluating his priorities and irrepressible creative energy. How, even though belonging to musical families on both his parents' sides, did he come to possess so bewitching a sense of rhythm and melody and a mastery of harmony that established nothing less than a norm in Western culture? In considering that the works of a composer are his biography, the book's title A Life in Music means both a life spent making music and one revealed in the music as we know it. A distinguished scholar and performer, Williams re-examines Bach's life as an orphan and family man, as an extraordinarily gifted composer and player and as an ambitious artist who never suffered fools gladly.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_13",
+                        "identifier": "9781139461191"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1139461192"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "averageRating": 4,
+                "ratingsCount": 1,
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "2.2.2.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=R2tkkPvcnDsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=R2tkkPvcnDsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=R2tkkPvcnDsC&pg=PR11&dq=js&hl=&cd=1&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=R2tkkPvcnDsC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/J_S_Bach.html?hl=&id=R2tkkPvcnDsC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/J_S_Bach-sample-pdf.acsm?id=R2tkkPvcnDsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=R2tkkPvcnDsC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "I54ncNr3v9QC",
+            "etag": "0ZKv8gkv6Gw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/I54ncNr3v9QC",
+            "volumeInfo": {
+                "title": "Rereading Power and Freedom in J.S. Mill",
+                "authors": [
+                    "Bruce David Baum"
+                ],
+                "publisher": "University of Toronto Press",
+                "publishedDate": "2000",
+                "description": "Baum recovers lost dimensions of Mill's thought, and in so doing, contributes to a critical sociology of freedom for our our time like workers' co-operatives & women's rights.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_10",
+                        "identifier": "0802083153"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780802083159"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 360,
+                "printType": "BOOK",
+                "categories": [
+                    "Philosophy"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=I54ncNr3v9QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=I54ncNr3v9QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=I54ncNr3v9QC&pg=PA172&dq=js&hl=&cd=2&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=I54ncNr3v9QC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Rereading_Power_and_Freedom_in_J_S_Mill.html?hl=&id=I54ncNr3v9QC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=I54ncNr3v9QC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "qDo4SNHRhbQC",
+            "etag": "52rsbblZ9Zg",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/qDo4SNHRhbQC",
+            "volumeInfo": {
+                "title": "Dance and the Music of J.S. Bach",
+                "authors": [
+                    "Meredith Little",
+                    "Natalie Jenne"
+                ],
+                "publisher": "Indiana University Press",
+                "publishedDate": "2001",
+                "description": "Stylized dance music and music based on dance rhythms pervade Bach's compositions. Although the music of this very special genre has long been a part of every serious musician's repertoire, little has been written about it. The original edition of this addressed works that bore the names of dances--a considerable corpus. In this expanded version of their practical and insightful study, Meredith Little and Natalie Jenne apply the same principals to the study of a great number of Bach's works that use identifiable dance rhythms but do not bear dance-specific titles. Part I describes French dance practices in the cities and courts most familiar to Bach. The terminology and analytical tools necessary for discussing dance music of Bach's time are laid out. Part II presents the dance forms that Bach used, annotating all of his named dances. Little and Jenne draw on choreographies, harmony, theorists' writings, and the music of many seventeenth- and eighteenth-century composers in order to arrive at a model for each dance type. In Appendix A all of Bach's named dances are listed in convenient tabular form; included are the BWV number for each piece, the date of composition, the larger work in which it appears, the instrumentation, and the meter. Appendix B supplies the same data for pieces recognizable as dance types but not named as such. More than ever, this book will stimulate both the musical scholar and the performer with a new perspective at the rhythmic workings of Bach's remarkable repertoire of dance-based music.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_10",
+                        "identifier": "0253214645"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780253214645"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 337,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "1.0.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=qDo4SNHRhbQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=qDo4SNHRhbQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=qDo4SNHRhbQC&pg=PA3&dq=js&hl=&cd=3&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=qDo4SNHRhbQC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Dance_and_the_Music_of_J_S_Bach.html?hl=&id=qDo4SNHRhbQC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=qDo4SNHRhbQC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "French conversation, indispensable at that time to any high-born German, was <br>\nobligatory between the students; and Material in this chapter was originally <br>\npresented by Meredith Little at the 1985 Aston Magna Academy, &quot;<b>J. S.</b> Bach and <br>\nHis&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "A9K-1_t873kC",
+            "etag": "Qvw8DCRq5vY",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/A9K-1_t873kC",
+            "volumeInfo": {
+                "title": "J. S. Bach",
+                "authors": [
+                    "Albert Schweitzer",
+                    "Ernest Newman"
+                ],
+                "publisher": "Courier Corporation",
+                "publishedDate": "1911",
+                "description": "Volume 1 of 2-volume set. This stimulating narrative traces Bach's life; discusses contemporary artistic and philosophical movements; assesses the work of his predecessors Schutz, Scheidt, Buxtehude, etc., analyzes Bach's own work; and passes on brilliant recommendations for performance — tempo, phrasing, accentuation, dynamics, etc. Translated by Ernest Newman.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_10",
+                        "identifier": "0486216314"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780486216317"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 464,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.0.0.preview.1",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=A9K-1_t873kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=A9K-1_t873kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=A9K-1_t873kC&pg=PA265&dq=js&hl=&cd=4&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=A9K-1_t873kC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/J_S_Bach.html?hl=&id=A9K-1_t873kC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=A9K-1_t873kC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "cqQQLPm4XhUC",
+            "etag": "BQLaHOJFy1E",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/cqQQLPm4XhUC",
+            "volumeInfo": {
+                "title": "J.S. Mill's Encounter with India",
+                "authors": [
+                    "Martin Moir",
+                    "Douglas M. Peers",
+                    "Lynn Zastoupil"
+                ],
+                "publisher": "University of Toronto Press",
+                "publishedDate": "1999",
+                "description": "The essays in this collection explore specific aspects of Mill's approach to Indian issues, including religion, law, education, and security, and also place him within the broader currents of utilitarianism.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_10",
+                        "identifier": "0802007139"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780802007131"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 264,
+                "printType": "BOOK",
+                "categories": [
+                    "History"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=cqQQLPm4XhUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=cqQQLPm4XhUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=cqQQLPm4XhUC&pg=PA111&dq=js&hl=&cd=5&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=cqQQLPm4XhUC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/J_S_Mill_s_Encounter_with_India.html?hl=&id=cqQQLPm4XhUC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=cqQQLPm4XhUC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>J.S.</b>. Mill,. and. &#39;Western&#39;. Culture. LYNN. ZASTOUPIL. In my original contribution <br>\nto the Calgary conference that forms the core of this volume, I investigated the <br>\nrelationship between Mill&#39;s own education, and intellectual crisis, and his&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "yida0yHHPBgC",
+            "etag": "KQ1c+POyeGw",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/yida0yHHPBgC",
+            "volumeInfo": {
+                "title": "Getting Started with GEO, CouchDB, and Node.js",
+                "subtitle": "New Open Source Tools for Location Data",
+                "authors": [
+                    "Mick Thompson"
+                ],
+                "publisher": "\"O'Reilly Media, Inc.\"",
+                "publishedDate": "2011-07-22",
+                "description": "Today's mobile devices have GPS and standard APIs to give you access to coordinates—but what can you do with that data? With this concise book, application developers learn how to work with location data quickly and easily, using Node.js, CouchDB, and other open source tools and libraries. Node.js makes it simple to run event code on the Web, and the CouchDB document-oriented database lets you store location data and perform complex queries on it quickly. You'll learn how to get started with these tools, and then use them together to build an example project called MapChat, using HTML and JavaScript code samples. Learn how to serve dynamic content with Node.js, and use its asynchronous IO to handle several requests at once Become familiar with GeoJSON, Geohash, and the Geospatial Data Abstraction Library (GDAL) for working with spatial data Build geospatial indexes using the GeoCouch branch of CouchDB Combine these tools to build a project that lets users post real-time chat messages tagged with their current map location",
+                "industryIdentifiers": [{
+                        "type": "ISBN_13",
+                        "identifier": "9781449315450"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1449315453"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 66,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.8.6.0.preview.3",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=yida0yHHPBgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=yida0yHHPBgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=yida0yHHPBgC&pg=PA26&dq=js&hl=&cd=6&source=gbs_api",
+                "infoLink": "https://play.google.com/store/books/details?id=yida0yHHPBgC&source=gbs_api",
+                "canonicalVolumeLink": "https://market.android.com/details?id=book-yida0yHHPBgC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "FOR_SALE",
+                "isEbook": true,
+                "listPrice": {
+                    "amount": 139.37,
+                    "currencyCode": "EGP"
+                },
+                "retailPrice": {
+                    "amount": 139.37,
+                    "currencyCode": "EGP"
+                },
+                "buyLink": "https://play.google.com/store/books/details?id=yida0yHHPBgC&rdid=book-yida0yHHPBgC&rdot=1&source=gbs_api",
+                "offers": [{
+                    "finskyOfferType": 1,
+                    "listPrice": {
+                        "amountInMicros": 139370000,
+                        "currencyCode": "EGP"
+                    },
+                    "retailPrice": {
+                        "amountInMicros": 139370000,
+                        "currencyCode": "EGP"
+                    }
+                }]
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=yida0yHHPBgC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "Currently the views are just a single map function (geocats/spatial/ points.<b>js</b>): <br>\nfunction(doc) { if(doc.geometry){ emit(doc.geometry, {image:doc.image_url_small<br>\n}); } } The emit function in spatial views requires the key to. 26 | Chapter3: <br>\nCouchDB&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "Od7y0D5chvAC",
+            "etag": "+YVM0PUh1h0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/Od7y0D5chvAC",
+            "volumeInfo": {
+                "title": "Backbone.Js Testing",
+                "authors": [
+                    "Ryan Roemer"
+                ],
+                "publisher": "Packt Publishing Ltd",
+                "publishedDate": "2013-01-01",
+                "description": "This book is packed with the step by step tutorial and instructions in recipe format helping you setup test infrastructure and gradually advance your skills to plan, develop, and test your backbone applications.If you are a JavaScript developer looking for recipes to create and implement test support for your backbone application, then this book is ideal for you.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_13",
+                        "identifier": "9781782165255"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1782165258"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 168,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=Od7y0D5chvAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=Od7y0D5chvAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=Od7y0D5chvAC&pg=PT61&dq=js&hl=&cd=7&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=Od7y0D5chvAC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Backbone_Js_Testing.html?hl=&id=Od7y0D5chvAC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=Od7y0D5chvAC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "&lt;/script&gt; &lt;script src:&quot;<b>js</b>/lib/backbone.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;script src:&quot;<b>js</b>/lib/backbone.<br>\nlocalStorage.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;script src:&quot;<b>js</b>/lib/bootstrap/<b>js</b>/bootstrap.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;<br>\nscript src:&quot;<b>js</b>/lib/showdown/showdown.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;!—— JavaScript Application<br>\n&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "uY_9AAAAQBAJ",
+            "etag": "iU6RBgLZ7f0",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/uY_9AAAAQBAJ",
+            "volumeInfo": {
+                "title": "Instant typeahead.js",
+                "authors": [
+                    "Toby Osbourn"
+                ],
+                "publisher": "Packt Publishing Ltd",
+                "publishedDate": "2013-09-25",
+                "description": "Filled with practical, step-by-step instructions and clear explanations for the most important and useful tasks. Instant Typeahead.js is a concise guide with 14 recipes which deals with everything you need to know to become proficient in using this tool and teaches you how to integrate it with other popular projects such as WordPress, Bootstrap, and Ruby on Rails.Instant Typeahead.js is for any web developer who would like to learn more about Typeahead.js in terms of what it can offer and the best ways to achieve common tasks. This book assumes no prior knowledge, but an understanding of JavaScript fundamentals would be useful.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_13",
+                        "identifier": "9781783282623"
+                    },
+                    {
+                        "type": "ISBN_10",
+                        "identifier": "1783282622"
+                    }
+                ],
+                "readingModes": {
+                    "text": true,
+                    "image": true
+                },
+                "pageCount": 58,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "preview-1.0.0",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=uY_9AAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=uY_9AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=uY_9AAAAQBAJ&pg=PT85&dq=js&hl=&cd=8&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=uY_9AAAAQBAJ&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Instant_typeahead_js.html?hl=&id=uY_9AAAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true
+                },
+                "pdf": {
+                    "isAvailable": true
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=uY_9AAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "typeahead.<b>js</b>/src/version.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/utils.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/<br>\nevent_target.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/event_bus.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/<br>\npersistent_storage.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/request_cache.<b>js</b>&#39;, &#39;../typeahead.<b>js</b>/src/<br>\ntransport.<b>js</b>&#39;, &#39;."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "5eGRAwAAQBAJ",
+            "etag": "z399huOoNXs",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/5eGRAwAAQBAJ",
+            "volumeInfo": {
+                "title": "Express.js Guide",
+                "subtitle": "The Comprehensive Book on Express.js",
+                "authors": [
+                    "Azat Mardan"
+                ],
+                "publisher": "Azat Mardan",
+                "publishedDate": "2014-05-28",
+                "description": "The Comprehensive Book on Express.js The in-depth, detailed, hand-on manual on Express.js, the most popular Node.js framework. Will get you up and running fast and save you time. Understand the concepts, learn the best practices. Become an Express.js expert today. Express.js API reference, quick start guides, 20+ meticulously explained examples and tutorials -- over 270 pages with more than 60 illustrations. Quick Start The Interface TIps and Tricks Tutorials and Examples Why Express.js is the most popular Node.js web framework yet. As of this writing (September of 2013), there are no books that are solely dedicated to it. Its official website has bits of insights for advanced Node.js programmers. However, I found that many people -- including those who go through HackReactor7 program and come to my Node.js classes at General Assembly and pariSOMA -- are interested in a comprehensive resource. The one that would cover all the different components of Express.js work together in a real production-like application. The goal of Express.js Guide is to become such resource. What This Book is Express.js Guide is a concise book on one particular library. This book contains Express.js API 3.3.58 description, the best practices on code organization and patterns, real-world examples of web apps. The topics include but not limited to middleware, command-line interface and scaffolding, ren- dering templates, extracting params from dynamic URLs, parsing payloads and cookies, managing authentication with sessions, error handling and prepping apps for production. For more details and for what exactly the book covers, please refer to the Table of Contents. What This Book is Not This book is not an introduction to Node.js, nor is it a book that covers all aspects of building a modern day web application, e.g., websockets, databases and (of course) front-end development. Keep in mind that readers also won't find in Express.js Guide a resource for learning programming and/or JavaScript fundamentals. You might want to take a look at Rapid Prototyping with JS9 for the introduction to Node.js, MongoDB and front-end development with Backbone.js. In the real-world and especially in Node.js development, due to its modularized philosophy, we seldom use just a single framework. In the book, we have tried to stick only to Express.js and leave everything else out as much as possible, without compromising the usefulness of examples. Therefore, we intentionally left out some important chunks of web developments, for example databases, authentication and testing. Although these elements are present in tutorials and examples, they're not explained in detail. For those materials, you could check books in the Related Reading and Resources section at the end of the book. Who This Book is For This book is for people fluent in programming and front-end JavaScript. In addition, to get the most benefits, readers must be familiar with basic Node.js concepts like process and global, and know core modules, including streams, clusters and buffer type. If you're thinking of starting a Node.js app, or of rewriting an existing one, and your weapon of choice is Express.js -- this guide is for you! It will answer most of your \"how\" and \"why\" questions.",
+                "readingModes": {
+                    "text": true,
+                    "image": false
+                },
+                "pageCount": 270,
+                "printType": "BOOK",
+                "categories": [
+                    "Computers"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": true,
+                "contentVersion": "1.2.2.0.preview.2",
+                "panelizationSummary": {
+                    "containsEpubBubbles": false,
+                    "containsImageBubbles": false
+                },
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=5eGRAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=5eGRAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=5eGRAwAAQBAJ&pg=PR2&dq=js&hl=&cd=9&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=5eGRAwAAQBAJ&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Express_js_Guide.html?hl=&id=5eGRAwAAQBAJ"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": true,
+                    "acsTokenLink": "http://books.google.com.eg/books/download/Express_js_Guide-sample-epub.acsm?id=5eGRAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=5eGRAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "This solution is natural in Node.<b>js</b>, and that&#39;s why Node.<b>js</b> rocks! Life after <br>\ndiscovering Node.<b>js</b> was great, full of interesting challenges and work, but one <br>\nthing was annoying: each time I start a new project, I have to do almost the same <br>\nwork to&nbsp;..."
+            }
+        },
+        {
+            "kind": "books#volume",
+            "id": "j3eo68ybiKMC",
+            "etag": "LGhHE5DdTSE",
+            "selfLink": "https://www.googleapis.com/books/v1/volumes/j3eo68ybiKMC",
+            "volumeInfo": {
+                "title": "Basix J.S. Bach Guitar Tab Classics: Book & CD",
+                "authors": [
+                    "Johann Sebastian Bach"
+                ],
+                "publisher": "Alfred Music Publishing",
+                "publishedDate": "2003-09-01",
+                "description": "17 well-known pieces by one of the world's greatest composers arranged for guitar in standard music notation and TAB. The accompanying CD offers outstanding performances of each piece.",
+                "industryIdentifiers": [{
+                        "type": "ISBN_10",
+                        "identifier": "0739034030"
+                    },
+                    {
+                        "type": "ISBN_13",
+                        "identifier": "9780739034033"
+                    }
+                ],
+                "readingModes": {
+                    "text": false,
+                    "image": true
+                },
+                "pageCount": 44,
+                "printType": "BOOK",
+                "categories": [
+                    "Music"
+                ],
+                "maturityRating": "NOT_MATURE",
+                "allowAnonLogging": false,
+                "contentVersion": "0.1.1.0.preview.1",
+                "imageLinks": {
+                    "smallThumbnail": "http://books.google.com/books/content?id=j3eo68ybiKMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                    "thumbnail": "http://books.google.com/books/content?id=j3eo68ybiKMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+                },
+                "language": "en",
+                "previewLink": "http://books.google.com.eg/books?id=j3eo68ybiKMC&pg=PA3&dq=js&hl=&cd=10&source=gbs_api",
+                "infoLink": "http://books.google.com.eg/books?id=j3eo68ybiKMC&dq=js&hl=&source=gbs_api",
+                "canonicalVolumeLink": "https://books.google.com/books/about/Basix_J_S_Bach_Guitar_Tab_Classics_Book.html?hl=&id=j3eo68ybiKMC"
+            },
+            "saleInfo": {
+                "country": "EG",
+                "saleability": "NOT_FOR_SALE",
+                "isEbook": false
+            },
+            "accessInfo": {
+                "country": "EG",
+                "viewability": "PARTIAL",
+                "embeddable": true,
+                "publicDomain": false,
+                "textToSpeechPermission": "ALLOWED",
+                "epub": {
+                    "isAvailable": false
+                },
+                "pdf": {
+                    "isAvailable": false
+                },
+                "webReaderLink": "http://play.google.com/books/reader?id=j3eo68ybiKMC&hl=&printsec=frontcover&source=gbs_api",
+                "accessViewStatus": "SAMPLE",
+                "quoteSharingAllowed": false
+            },
+            "searchInfo": {
+                "textSnippet": "<b>J. S.</b> Bach was a descendant of a long line of musicians. ln Germany during that <br>\ntime, the name &quot;Bach&quot; had become almost synonymous with &quot;musician.&quot; Bach&#39;s <br>\nparents died when he was only 10 years old. He was raised by his oldest brother,<br>\n&nbsp;..."
+            }
+        }
+    ]
+}
