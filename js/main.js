@@ -5,7 +5,6 @@ $(document).ready(function() {
 
 
     })
-    $('.alert').show();
 })
 
 function getBooks(searchText) {
@@ -46,6 +45,7 @@ function getBooks(searchText) {
         })
         .catch(function(err) {
            
+            console.log(err);
             
         })
 
